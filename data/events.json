@@ -1,0 +1,56 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Google Cloud Study Jam 2024",
+      "description": "Chuỗi sự kiện học tập về Google Cloud Platform với các chuyên gia từ Google.",
+      "date": "2024-03-15",
+      "time": "14:00 - 17:00",
+      "location": "Phòng Hội thảo A, Trường ĐH SPKT TP.HCM",
+      "status": "past",
+      "image": "/static/images/events/cloud-study-jam.jpg",
+      "maxParticipants": 100,
+      "currentParticipants": 0,
+      "organizer": "DSC UTE Cloud Team",
+      "googleFormUrl": "https://forms.google.com/...",
+      "registered_ips": []
+    },
+    {
+      "id": 2,
+      "title": "test",
+      "description": "stes",
+      "date": "2025-01-05",
+      "time": "00:00 - 20:05",
+      "location": "VietNam",
+      "status": "past",
+      "image": "http://partially-surgeon-long-fridge.trycloudflare.com/static/images/events/event_1736065274.jpg",
+      "maxParticipants": 100,
+      "currentParticipants": 5,
+      "organizer": "DSC UTE",
+      "googleFormUrl": "https://forms.google.com/",
+      "registered_ips": [
+        "42.119.81.194",
+        "117.3.120.61",
+        "2001:ee0:1b02:ceb3:a998:4213:50b6:dc24",
+        "1.53.49.166"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "test2",
+      "description": "test2",
+      "date": "2025-01-05",
+      "time": "14:00 - 15:00",
+      "location": "test2",
+      "status": "past",
+      "image": "http://partially-surgeon-long-fridge.trycloudflare.com/static/images/events/test2_1736069987.jpg",
+      "maxParticipants": 100,
+      "currentParticipants": 1,
+      "organizer": "DSC UTE",
+      "googleFormUrl": "test2",
+      "registered_ips": [
+        "1.53.49.166"
+      ]
+    }
+  ]
+}

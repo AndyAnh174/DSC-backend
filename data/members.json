@@ -1,0 +1,230 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Hồ Việt Anh",
+      "role": "Leader CLB HCMUTEDSC",
+      "team": "lead",
+      "department": "Lead Team",
+      "avatar": "http://partially-surgeon-long-fridge.trycloudflare.com/static/images/members/Ho_Viet_Anh_1736067378.jpg",
+      "year": "2024-2025",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Strategic Planning"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "leader@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Bc",
+      "role": "Leader Team Học thuật",
+      "team": "lead",
+      "department": "Lead Team",
+      "avatar": "http://partially-surgeon-long-fridge.trycloudflare.com/static/images/members/Tran_Thi_Bc_1736056376.jpg",
+      "year": "2024-2025",
+      "skills": [
+        "Technical Leadership",
+        "Teaching",
+        "Research"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "academic@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lê Văn C",
+      "role": "Leader Team Sự kiện",
+      "team": "lead",
+      "department": "Lead Team",
+      "avatar": "http://partially-surgeon-long-fridge.trycloudflare.com/static/images/members/Le_Van_C_1736070005.jpg",
+      "year": "2024-2025",
+      "skills": [
+        "Event Planning",
+        "Team Coordination",
+        "Public Speaking"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "event@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Phạm Thị D",
+      "role": "Leader Team Truyền thông",
+      "team": "lead",
+      "department": "Lead Team",
+      "avatar": "http://partially-surgeon-long-fridge.trycloudflare.com/static/images/members/Pham_Thi_D_1736071185.jpg",
+      "year": "2024-2025",
+      "skills": [
+        "Content Strategy",
+        "Social Media",
+        "Design"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "media@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hoàng Văn E",
+      "role": "Leader CLB HCMUTEDSC",
+      "team": "lead",
+      "department": "Lead Team",
+      "avatar": "/members/leader-club-2023.jpg",
+      "year": "2023-2024",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Strategic Planning"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "mailto:leader2023@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Lý Thị Iol",
+      "role": "Leader Team Sự kiện",
+      "team": "lead",
+      "department": "Sự kiện",
+      "avatar": "/members/leader-club-2022.jpg",
+      "year": "2022-2023",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Strategic Planning"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "leader2022@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Trương Văn M",
+      "role": "Leader CLB HCMUTEDSC",
+      "team": "lead",
+      "department": "Lead Team",
+      "avatar": "/members/leader-club-2021.jpg",
+      "year": "2021-2022",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Strategic Planning"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "mailto:leader2021@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Đặng Thị Q",
+      "role": "Leader CLB HCMUTEDSC",
+      "team": "lead",
+      "department": "Lead Team",
+      "avatar": "/members/leader-club-2020.jpg",
+      "year": "2020-2021",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Strategic Planning"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "mailto:leader2020@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Hoàng Văn R",
+      "role": "Technical Mentor",
+      "team": "academic",
+      "department": "Học thuật",
+      "avatar": "/members/member1.jpg",
+      "year": null,
+      "skills": [
+        "Web Development",
+        "AI/ML",
+        "Cloud Computing"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "mailto:member@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Vũ Thị S",
+      "role": "Event Coordinator",
+      "team": "event",
+      "department": "Sự kiện",
+      "avatar": "/members/member4.jpg",
+      "year": null,
+      "skills": [
+        "Event Management",
+        "Community Building",
+        "Marketing"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "mailto:member@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Đỗ Văn T",
+      "role": "Content Creator",
+      "team": "media",
+      "department": "Truyền thông",
+      "avatar": "/members/member7.jpg",
+      "year": null,
+      "skills": [
+        "Content Writing",
+        "Graphic Design",
+        "Video Editing"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "mailto:member@ute-dsc.edu.vn"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Hồ Việt Anh",
+      "role": "Leader CLB HCMUTEDSC",
+      "team": "lead",
+      "department": "Lead Team",
+      "avatar": "/members/leader-acadeasdmic.jpg",
+      "year": "2023-2024",
+      "skills": [
+        "asd"
+      ],
+      "links": {
+        "facebook": "https://facebook.com",
+        "github": "https://github.com",
+        "email": "hovietanh147@gmail.com"
+      }
+    }
+  ]
+}

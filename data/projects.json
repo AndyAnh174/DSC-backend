@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "UTE Learning Platform",
+      "description": "Nền tảng học trực tuyến cho sinh viên UTE với tính năng quản lý khóa học, bài giảng video, và theo dõi tiến độ học tập.",
+      "category": "web",
+      "image": "http://partially-surgeon-long-fridge.trycloudflare.com/static/images/events/UTE_Learning_Platform_1736071112.jpg",
+      "progress": 75,
+      "teamSize": 5,
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "WebRTC"
+      ],
+      "links": {
+        "github": "https://github.com/ute-dsc/learning-platform",
+        "demo": "https://learning.ute.edu.vn"
+      },
+      "details": "Chi tiết về dự án UTE Learning Platform...",
+      "teamMembers": [
+        {
+          "name": "Nguyễn Văn A",
+          "role": "Project Lead",
+          "avatar": "http://partially-surgeon-long-fridge.trycloudflare.com/static/images/events/member-avatar_1736071146.jpg"
+        }
+      ]
+    }
+  ]
+}

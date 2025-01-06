@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "5050:5000"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./static/images/avatars:/app/static/images/avatars
+      - ./static/images/banners:/app/static/images/banners
+      - ./static/images/events:/app/static/images/events
+      - ./static/images/members:/app/static/images/members
+      - ./static/images/projects:/app/static/images/projects 

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "asd",
+    "description": "asdf",
+    "image": "/static/images/banners/banner_1736114874_z6176099951065_1bfbc37350ae977638690e1613e18f18.jpg",
+    "order": 1,
+    "active": true,
+    "created_at": "2025-01-06T05:07:54.938778"
+  },
+  {
+    "id": 2,
+    "title": "Dinh",
+    "description": "1",
+    "image": "/static/images/banners/banner_1736114902_z6176099950581_b2895d468fa268f9cba3bb1c10888f6b.jpg",
+    "order": 2,
+    "active": true,
+    "created_at": "2025-01-06T05:08:22.511972"
+  }
+]
